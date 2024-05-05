@@ -1,0 +1,1 @@
+Repositório para compartilhamento do desafio do Day2 do treinamento PICK2024 da Linuxtips
